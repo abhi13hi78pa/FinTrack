@@ -1,4 +1,4 @@
-# 💰 FinTrack
+# FinTrack
 
 ### Smart Personal Finance Management Platform
 
@@ -10,64 +10,62 @@ Track income, expenses, savings, and budgets — all in one place.
 
 ---
 
-## 📌 Overview
+## Overview
 
 FinTrack helps users manage daily financial activities with a modern dashboard for tracking spending, monitoring budgets, and improving savings habits.
 
 ---
 
-## ✨ Features
+## Features
 
-* 🔐 Secure Authentication (Login / Signup)
-* 💵 Add Income Records
-* 💸 Add Expense Records
-* 📂 Category-wise Expense Tracking
-* 📊 Dashboard Analytics
-* 🎯 Monthly Budget Planner
-* 🔍 Search & Filter Transactions
-* ✏️ Edit & Delete Records
-* 📈 Savings Insights *(Planned)*
-* 🤖 Smart Spending Analysis *(Planned)*
+- Secure Authentication (Login / Signup)
+- Add Income Records
+- Add Expense Records
+- Category-wise Expense Tracking
+- Dashboard Analytics
+- Monthly Budget Planner
+- Search & Filter Transactions
+- Edit & Delete Records
+- Savings Insights (Planned)
+- Smart Spending Analysis (Planned)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 
-* React.js
-* Tailwind CSS
+- React.js
+- Tailwind CSS
 
 ### Backend
 
-* Node.js
-* Express.js
+- Node.js
+- Express.js
 
 ### Database
 
-* MongoDB
+- MongoDB
 
 ### Additional Tools
 
-* REST APIs
-* Chart Libraries
+- REST APIs
+- Chart Libraries
 
 ---
 
-## 📷 UI Preview
+## UI Preview
 
 Modern dashboard interface with cards, charts, recent transactions, category breakdown, and financial summaries.
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
 Currently under development.
 
 ---
 
-## 🎯 Vision
+## Vision
 
 To simplify money management and help users make smarter financial decisions.
-
----
